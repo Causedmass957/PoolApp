@@ -1,0 +1,38 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.map
+*.so
+*.dylib
+*.cer
+*.cat
+*.pfx
+
+# Entity Framework Migrations
+Migrations/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# ASP.NET
+appsettings*.json
+secrets.json
+
+# Log files
+logs/
+*.log
