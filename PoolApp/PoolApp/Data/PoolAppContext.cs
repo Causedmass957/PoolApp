@@ -25,7 +25,8 @@ namespace PoolApp.Data
             builder.Entity<IdentityUserToken<string>>().ToTable("UserTokens");
         }
 
-        DbSet<Pool> Pool {  get; set; }
-        DbSet<ServiceRecord> ServiceRecords { get; set; }
+        public DbSet<Pool> Pool {  get; set; }
+        public DbSet<ServiceRecord> ServiceRecords { get; set; }
+        public DbSet<PoolTech> PoolTech { get; set; }
     }
 }

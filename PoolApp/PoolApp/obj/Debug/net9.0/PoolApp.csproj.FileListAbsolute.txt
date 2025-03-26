@@ -407,4 +407,3 @@ C:\CurrentProjects\PoolApp\PoolApp\PoolApp\bin\Debug\net9.0\ru\Microsoft.CodeAna
 C:\CurrentProjects\PoolApp\PoolApp\PoolApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\CurrentProjects\PoolApp\PoolApp\PoolApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\CurrentProjects\PoolApp\PoolApp\PoolApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\CurrentProjects\PoolApp\PoolApp\PoolApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
