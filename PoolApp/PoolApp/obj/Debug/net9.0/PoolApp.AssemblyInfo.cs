@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoolApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b8ff3fb6727ac19282e6d208ad5d42453d37012")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoolApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoolApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
